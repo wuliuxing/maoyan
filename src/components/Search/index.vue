@@ -24,7 +24,7 @@
                     </div>
                     <div class="right">
                         <span>
-                            9.6分
+                            {{item.sc}}分
                         </span>
                         <p>
                             购票
