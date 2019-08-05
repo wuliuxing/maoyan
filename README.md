@@ -1,29 +1,25 @@
-# maoyan
+# 运行
+```
+cnpm / yarn install
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
+cnpm / yarn run serve
 ```
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+# 简介
+仿猫眼项目，数据通过axios调取，用到了动态路由
 
-### Run your tests
-```
-yarn run test
-```
+![](https://github.com/wuliuxing/img-All/blob/master/images/m1.png)
 
-### Lints and fixes files
-```
-yarn run lint
-```
+![](https://github.com/wuliuxing/img-All/blob/master/images/m2.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+![](https://github.com/wuliuxing/img-All/blob/master/images/m3.png)
+
+
+![](https://github.com/wuliuxing/img-All/blob/master/images/m4.png)
+
+
+![](https://github.com/wuliuxing/img-All/blob/master/images/m5.png)
+
+
+
