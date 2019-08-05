@@ -6,7 +6,7 @@ cnpm / yarn run serve
 ```
 
 # 简介
-仿猫眼项目，数据通过axios调取，用到了动态路由
+仿猫眼项目，数据通过axios调取，用到了动态路由,简易搜索功能
 
 ![](https://github.com/wuliuxing/img-All/blob/master/images/m1.png)
 
